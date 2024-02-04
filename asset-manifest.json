@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my_portfolio/static/css/main.f1ac9703.css",
-    "main.js": "/my_portfolio/static/js/main.ce1f2233.js",
+    "main.js": "/my_portfolio/static/js/main.2fd7bcda.js",
     "static/media/FiraCode-Bold.svg": "/my_portfolio/static/media/FiraCode-Bold.284bff69d037e12d4988.svg",
     "static/media/FiraCode-Regular.svg": "/my_portfolio/static/media/FiraCode-Regular.a8a76517b7da23dd9478.svg",
     "static/media/FiraCode-Medium.svg": "/my_portfolio/static/media/FiraCode-Medium.dd7669dfd1e31ab212b7.svg",
@@ -19,10 +19,10 @@
     "static/media/FiraCode-Bold.woff2": "/my_portfolio/static/media/FiraCode-Bold.3e13426260b611313193.woff2",
     "index.html": "/my_portfolio/index.html",
     "main.f1ac9703.css.map": "/my_portfolio/static/css/main.f1ac9703.css.map",
-    "main.ce1f2233.js.map": "/my_portfolio/static/js/main.ce1f2233.js.map"
+    "main.2fd7bcda.js.map": "/my_portfolio/static/js/main.2fd7bcda.js.map"
   },
   "entrypoints": [
     "static/css/main.f1ac9703.css",
-    "static/js/main.ce1f2233.js"
+    "static/js/main.2fd7bcda.js"
   ]
 }
