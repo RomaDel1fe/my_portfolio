@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.f1ac9703.css",
-    "main.js": "/my_portfolio/static/js/main.77e427d1.js",
+    "main.css": "/my_portfolio/static/css/main.de4644ed.css",
+    "main.js": "/my_portfolio/static/js/main.6412c952.js",
     "static/media/FiraCode-Bold.svg": "/my_portfolio/static/media/FiraCode-Bold.284bff69d037e12d4988.svg",
     "static/media/FiraCode-Regular.svg": "/my_portfolio/static/media/FiraCode-Regular.a8a76517b7da23dd9478.svg",
     "static/media/FiraCode-Medium.svg": "/my_portfolio/static/media/FiraCode-Medium.dd7669dfd1e31ab212b7.svg",
@@ -18,11 +18,11 @@
     "static/media/FiraCode-Medium.woff2": "/my_portfolio/static/media/FiraCode-Medium.9fb5144f154283fbabaa.woff2",
     "static/media/FiraCode-Bold.woff2": "/my_portfolio/static/media/FiraCode-Bold.3e13426260b611313193.woff2",
     "index.html": "/my_portfolio/index.html",
-    "main.f1ac9703.css.map": "/my_portfolio/static/css/main.f1ac9703.css.map",
-    "main.77e427d1.js.map": "/my_portfolio/static/js/main.77e427d1.js.map"
+    "main.de4644ed.css.map": "/my_portfolio/static/css/main.de4644ed.css.map",
+    "main.6412c952.js.map": "/my_portfolio/static/js/main.6412c952.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1ac9703.css",
-    "static/js/main.77e427d1.js"
+    "static/css/main.de4644ed.css",
+    "static/js/main.6412c952.js"
   ]
 }
